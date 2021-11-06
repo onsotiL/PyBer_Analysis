@@ -1,10 +1,5 @@
 # PyBer_Analysis
-The analysis should contain the following:
-
-Overview of the analysis: 
-
-
-Explain the purpose of the new analysis.
+## Overview 
 The purpose of this analysis is to create a summary of PyBer ride-sharing data in different city types including Rural,Urban & Suburban.The summary will help inform the comapany on the demand for rides and drivers  in the three different ciity types.  
 The analysis calculated the following:
 - Total number of rides
@@ -13,17 +8,21 @@ The analysis calculated the following:
 - Average fare per driver for each city type
 - Average fare per ride for each city type
 
+## Results
 
 The Analysis concluded the following:
-Urban cities: 1,625 rides
-Suburban cities: 625 rides 
-rural cities​: 125 rides 
 
-Total rides by city type (Pie chart) FIG 6
+- Urban cities: 1,625 rides
+- Suburban cities: 625 rides 
+- rural cities​: 125 rides 
+
+### Total rides by city type percentages  
+
+![image](https://user-images.githubusercontent.com/90416094/140609587-9a88872a-3c10-4f26-88bf-03e37220e637.png)
 
 
 
-Results: 
+
 Ride Sharing summary by city type DATA FRAME
 
 
