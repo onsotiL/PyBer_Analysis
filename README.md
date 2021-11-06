@@ -1,5 +1,11 @@
 # PyBer_Analysis
 
+Resources
+
+-  CSV files found inside of the Resources folder.
+-  Software: Python, Anaconda, Jupyter Notebook
+
+
 ## Overview 
 
 The purpose of this analysis is to create a summary of PyBer ride-sharing data in different city types including Rural, Urban & Suburban. The summary will help inform the company on the demand for rides and drivers in the three different city types and help the company make decisons on fares and driver distribution.  
