@@ -28,16 +28,18 @@ The Analysis concluded the following:
 
 ![image](https://user-images.githubusercontent.com/90416094/140609812-6f0545ea-972a-422e-8054-537d347d43cb.png)
 
-Results by city type:
+### The results demonstrate the following: 
 
-Rural cities has the least amount of rides, drivers, and total fares.
-Urban cities have the most amount of rides, drivers, and total fares.
-Suburban cities fall in between rural and urbarn cities
-Rural cities have the highest average fare per ride 
-Urban cities have the lowest average fare per ride 
+- Rural cities has the least amount of rides, drivers, and total fares.
+- Urban cities have the most amount of rides, drivers, and total fares.
+- Suburban cities fall in between rural and urbarn cities
+- Rural cities have the highest average fare per ride 
+- Urban cities have the lowest average fare per ride 
 
 
 The following multiple-line graph shows the total fares for each week by city type.
+
+![image](https://user-images.githubusercontent.com/90416094/140609859-a67030ce-33df-450c-b22c-6ebb070eb39b.png)
 
 
 
