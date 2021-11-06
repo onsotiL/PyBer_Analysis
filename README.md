@@ -16,6 +16,10 @@ The Analysis concluded the following:
 - Suburban cities: 625 rides 
 - rural cities​: 125 rides 
 
+### Ride Sharing summary by city type DATA FRAME
+
+![image](https://user-images.githubusercontent.com/90416094/140609776-a82d2536-79bc-45df-a0bf-bcbf79af4d02.png)
+
 ### Total rides by city type percentages  
 
 ![image](https://user-images.githubusercontent.com/90416094/140609587-9a88872a-3c10-4f26-88bf-03e37220e637.png)
@@ -23,7 +27,7 @@ The Analysis concluded the following:
 
 
 
-Ride Sharing summary by city type DATA FRAME
+
 
 
 tOTAL DIRIVERS BY CITY TYPE (PIE CHART) fig 7
