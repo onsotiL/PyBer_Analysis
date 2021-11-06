@@ -24,13 +24,9 @@ The Analysis concluded the following:
 
 ![image](https://user-images.githubusercontent.com/90416094/140609587-9a88872a-3c10-4f26-88bf-03e37220e637.png)
 
+### Total drivers by city type
 
-
-
-
-
-
-tOTAL DIRIVERS BY CITY TYPE (PIE CHART) fig 7
+![image](https://user-images.githubusercontent.com/90416094/140609812-6f0545ea-972a-422e-8054-537d347d43cb.png)
 
 Results by city type:
 
